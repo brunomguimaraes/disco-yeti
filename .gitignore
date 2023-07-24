@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+.sass-cache
+.parcel-cache
+local-data
+cache/*
+!cache/.gitkeep
+tmp/*
+!tmp/.gitkeep
+.env
+.env.*
+.clinic
+.eslintcache
